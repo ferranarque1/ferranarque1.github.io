@@ -9,7 +9,7 @@ This website was mainly inspired by Gabriel Peyré's [*Mathematical Tours of Dat
 
 I'll keep updating this page with whatever I find that is interesting. Here's the list organized by topics:
 
-### Machine Learning/Deep Learning
+#### Machine Learning/Deep Learning
 
 - Original U-Net paper [[<ins>source</ins>](https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/)]
 
