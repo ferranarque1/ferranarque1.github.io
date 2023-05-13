@@ -11,7 +11,7 @@ I'll keep updating this page with whatever I find that is interesting. Here's th
 
 #### Machine Learning/Deep Learning
 
-- Original U-Net paper [[<ins>source</ins>](https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/)]
+- **Original U-Net paper** [[<ins>source</ins>](https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/)]
 
     Brief, nicely written, and easy to follow. Also, it was the first network I ever used, so I think this architecture was a good introduction on how to implement a convolutional network for image segmentation.
 
