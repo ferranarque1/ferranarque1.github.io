@@ -2,7 +2,7 @@
 layout: page
 title: Useful stuff
 description: Idk, I think it's useful...
-background: '/img/escherstairs.jpg'
+background: '/img/escherstairs_half.jpg'
 ---
 
 Here I post resources that I found useful when working on data science stuff. I'll keep updating it as I go.
