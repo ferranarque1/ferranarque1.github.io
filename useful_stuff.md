@@ -10,6 +10,7 @@ Here I post resources that I found useful when working on data science stuff. I'
 ## Git
 
 - **Set up SSH keys to communicate with Gitlab/Github/whatever**
+
     I always have to consult this, and enough people has asked me to the point where I think it's useful to have it written here.
     
     The steps are taken from [this guide](https://docs.gitlab.com/ee/user/ssh.html). In particular these steps:
