@@ -2,7 +2,7 @@ title:              Title
 email:              your-email@example.com
 description:        A Blog Theme by Start Bootstrap
 author:             Ferran Arque
-baseurl:            "/startbootstrap-clean-blog-jekyll"
+baseurl:            
 url:                "https://ferranarque1.github.io"
 
 # Social Profiles
