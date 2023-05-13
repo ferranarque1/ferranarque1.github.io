@@ -13,9 +13,9 @@ I'll keep updating this page with whatever I find that is interesting. Here's th
 
 - **Original U-Net paper** [[<ins>source</ins>](https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/)]
 
-    Brief, nicely written, and easy to follow. Also, it was the first network I ever used, so I think this architecture was a good introduction on how to implement a convolutional network for image segmentation.
-
     *Ronneberger, O., Fischer, P., Brox, T. (2015). U-Net: Convolutional Networks for Biomedical Image Segmentation. In: Navab, N., Hornegger, J., Wells, W., Frangi, A. (eds) Medical Image Computing and Computer-Assisted Intervention – MICCAI 2015. MICCAI 2015. Lecture Notes in Computer Science, vol 9351. Springer, Cham. [https://doi.org/10.1007/978-3-319-24574-4_28](https://doi.org/10.1007/978-3-319-24574-4_28)*
+
+    Brief, nicely written, and easy to follow. Also, it was the first network I ever used, so I think this architecture was a good introduction on how to implement a convolutional network for image segmentation.
 
     [arXiv link](https://arxiv.org/pdf/1505.04597.pdf)
 
